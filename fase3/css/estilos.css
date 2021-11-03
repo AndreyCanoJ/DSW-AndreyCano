@@ -121,3 +121,16 @@ div.container {
   text-align: center;
   padding: 1px 1px;
 }
+
+div.polaroid1 {
+  width: 100%;
+  background-color: #C1FFD7;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 8px;
+}
+div.polaroid2 {
+  width: 30%;
+  background-color: #BFCFFF;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 8px;
+}

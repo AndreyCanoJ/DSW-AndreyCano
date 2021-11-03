@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e73905-0555-439f-81e5-63f9c18891c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fase3/autor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fase3/img/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fase3/recurso1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fase3/recurso2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase3/img/prueba.png" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/img/selectorid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase3/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fase3/tema1.html" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/tema1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase3/tema2.html" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/tema2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
