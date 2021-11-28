@@ -1,0 +1,69 @@
+h1{
+color: black;
+}
+header{
+    background-color: #FFA5A5;
+    text-align: center;
+    font-family: "Segoe UI";
+    display: grid;
+}
+nav{
+    background-color: #FFFFC2;
+    font-family: "Segoe UI";
+}
+section{
+    background-color: #C1FFD7;
+    grid-column: 1/4;
+
+}
+aside{
+    background-color: #BFCFFF;
+    grid-column: 4/5;
+}
+footer{
+    font-family: "Segoe UI";
+    background-color: #CAB8FF;
+}
+main{
+    font-family: "Segoe UI";
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+
+img {
+  opacity: 0.8;
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr  ;
+}
+div.polaroid {
+  width: 95%;
+  background-color: #BFCFFF;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 8px;
+}
+
+div.container {
+  text-align: center;
+  padding: 1px 1px;
+}
+
+div.polaroid1 {
+  width: 100%;
+  background-color: #C1FFD7;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 8px;
+}
+div.polaroid2 {
+  width: 30%;
+  background-color: #BFCFFF;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 8px;
+}
