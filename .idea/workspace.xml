@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e73905-0555-439f-81e5-63f9c18891c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fase4/aprendizaje1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/aprendizaje2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/autor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/Selectorclase1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/SelectordeTipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/Selectoruniversal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/Style.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/bulma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/css.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/foto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/frameworkcss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/materializecss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/selectorid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/img/tailwindcss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/pdf/css.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/recurso1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/recurso2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/tema1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase4/tema2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase3/tema1.html" beforeDir="false" afterPath="$PROJECT_DIR$/fase3/tema1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fase4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test-HojasA4" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
